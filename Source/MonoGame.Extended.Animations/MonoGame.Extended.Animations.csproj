@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="FNA, Version=19.8.0.0, Culture=neutral, PublicKeyToken=null">
+    <Reference Include="FNA, Version=19.11.0.0, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\..\..\FNA\bin\Release\FNA.dll</HintPath>
     </Reference>
   </ItemGroup>
